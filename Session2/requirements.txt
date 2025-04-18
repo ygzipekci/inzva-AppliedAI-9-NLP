@@ -1,0 +1,6 @@
+requests==2.32.3
+beautifulsoup4==4.13.3
+tqdm==4.67.1
+pandas==2.2.3
+ollama==0.4.7 # you need the desktop app to be intalled and running if working on local
+faiss-cpu==1.10.0 # https://github.com/facebookresearch/faiss?tab=readme-ov-file#installing

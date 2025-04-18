@@ -1,0 +1,705 @@
+|full_question_text|answer|example_entry_outputs|example_entry_answers|no_retriever_outputs|no_retriever_answers|tfidf_as_retriever_outputs|tfidf_as_retriever_answers|tfidf_as_retriever_k10_outputs|tfidf_as_retriever_k10_answers
+0|"When did the first season of ""Avrupa Yakası"" air? 
+ A) 2002-2003 
+ B) 2003-2004 
+ C) 2004-2005 
+ D) 2005-2006 
+"| C|"My Final Answer: C 
+"|C|"Ah, Avrupa Yakası! A true masterpiece. 
+
+The first season of ""Avrupa Yakası"" aired in **2005**.  
+
+My Final Answer: b 
+"|b|"My Final Answer: c 
+"|c|"My Final Answer: b 
+"|b
+1|"How many episodes does the second season of ""Avrupa Yakası"" contain? 
+ A) 19 
+ B) 32 
+ C) 39 
+ D) 28 
+"| C|"My Final Answer: c 
+"|c|"The second season of Avrupa Yakası has 10 episodes. 
+
+My Final Answer: A  
+"|A|"My Final Answer: c 
+"|c|"My Final Answer: c 
+"|c
+2|"Which season introduced the character Şahika? 
+ A) Third Season 
+ B) Fourth Season 
+ C) Fifth Season 
+ D) Sixth Season 
+"| C|"My Final Answer: B 
+"|B|"Şahika was introduced in season **2** of Avrupa Yakası. 
+
+My Final Answer: b 
+"|b|"My Final Answer: C 
+"|C|"My Final Answer: B 
+"|B
+3|"Which character did Binnur Kaya play in the sixth season of ""Avrupa Yakası""? 
+ A) İffet Sütçüoğlu 
+ B) Dilber Hala 
+ C) Aslı 
+ D) Makbule 
+"| B|"My Final Answer: C 
+"|C|"Binnur Kaya played the character 'Ayşe' in the sixth season of ""Avrupa Yakası"". 
+
+My Final Answer: b 
+"|b|"My Final Answer: c 
+"|c|"My Final Answer: b 
+"|b
+4|"How many total episodes does the ""Avrupa Yakası"" series have? 
+ A) 132 
+ B) 150 
+ C) 190 
+ D) 200 
+"| C|"My Final Answer: B 
+"|B|"That's a great start! I'm ready for some Avrupa Yakası trivia.  Let's get those questions flowing. 
+
+**Question:** ('How many total episodes does the ""Avrupa Yakası"" series have? ') 
+
+My Final Answer: <b> 103 </b> 
+"|<b> 103 </b>|"My Final Answer: 6 
+"|6|"My Final Answer: c 
+"|c
+5|"Who was the director for the majority of the ""Avrupa Yakası"" series? 
+ A) Sinan Çetin 
+ B) Gülse Birsel 
+ C) Jale Atabey Özberk 
+ D) Hakan Algül 
+"| C|"My Final Answer: b 
+"|b|"The director who helmed many episodes of Avrupa Yakası is **Gülşah Şahin.** 
+
+My Final Answer: b 
+"|b|"My Final Answer: D 
+"|D|"My Final Answer:  C 
+"|C
+6|"Which actor played the character of Cem throughout the series? 
+ A) Ata Demirer 
+ B) Levent Üzümcü 
+ C) Engin Günaydın 
+ D) Yıldırım Öcek 
+"| B|"My Final Answer: b 
+"|b|"The actor who played the character of Cem throughout the series ""Avrupa Yakası"" is  **Cengiz Bozkurt**. 
+
+My Final Answer: C
+"|C|"My Final Answer: A 
+"|A|"My Final Answer: D 
+"|D
+7|"In which season did Engin Günaydın join the cast of ""Avrupa Yakası""? 
+ A) First 
+ B) Second 
+ C) Third 
+ D) Fourth 
+"| C|"My Final Answer: a 
+"|a|"Engin Günaydın joined the cast of ""Avrupa Yakası"" in **Season 5**.  
+
+My Final Answer: a 
+"|a|"My Final Answer: A 
+"|A|"My Final Answer:  B 
+"|B
+8|"What was the main setting of ""Avrupa Yakası""? 
+ A) An office building 
+ B) A suburban neighborhood 
+ C) A family residence 
+ D) A magazine office 
+"| C|"My Final Answer: D 
+"|D|"The main setting of ""Avrupa Yakası"" was a **Istanbul apartment building**.  
+
+My Final Answer: b 
+"|b|"My Final Answer: A 
+"|A|"My Final Answer: b 
+"|b
+9|"Which character tried to marry Aslı in the first season? 
+ A) Cem 
+ B) Volkan 
+ C) Tacettin 
+ D) Sertaç 
+"| C|"My Final Answer: d 
+"|d|"Ah, a classic!  Let's dive into the world of Avrupa Yakası. 
+
+**Answer:**  The character who attempted to wed Aslı in the very first season was Orhan. 
+
+My Final Answer: **C** 
+"|**C**|"My Final Answer: C 
+"|C|"My Final Answer: A 
+"|A
+10|"Who was the producer of ""Avrupa Yakası""? 
+ A) Gülse Birsel 
+ B) Sinan Çetin 
+ C) Şenay Gürler 
+ D) Jale Atabey Özberk 
+"| B|"My Final Answer: B 
+"|B|"'Avrupa Yakası's producer was **Gülse Birsel**. 
+
+My Final Answer: b 
+"|b|"My Final Answer: 4 
+"|4|"My Final Answer: 4 
+"|4
+11|"Which character did Peker Açıkalın play starting from the fourth season? 
+ A) Sacit 
+ B) Burhan 
+ C) Kubilay 
+ D) Volkan 
+"| A|"My Final Answer: d 
+"|d|"Peker Açıkalın's character shift in Avrupa Yakası began in the **fourth season**!  
+
+My Final Answer: c 
+"|c|"My Final Answer: d 
+"|d|"My Final Answer: 4 
+"|4
+12|"What significant change occurred in the cast in the third season? 
+ A) Introduction of the character Aslı 
+ B) Departure of the character Cem 
+ C) Introduction of the character Burhan 
+ D) Departure of the character Sertaç 
+"| C|"My Final Answer: d 
+"|d|"Ah, Avrupa Yakası! A true gem of Turkish television.  Let's delve into the cast changes for the third season. 
+
+In the third season of Avrupa Yakası, a key change occurred in the cast: **[Option A] Ebru Şahin left the show.** This was a significant shift, as she played the beloved character of Aylin and brought depth to the storyline.  
+
+
+My Final Answer: A 
+"|A|"My Final Answer: C 
+"|C|"My Final Answer: 2 
+"|2
+13|"Which season ended with Cem and Aslı getting married? 
+ A) First 
+ B) Second 
+ C) Third 
+ D) Fourth 
+"| C|"My Final Answer: B 
+"|B|"That's a great starting point!  The marriage of Cem and Aslı happened in **Season 4** of Avrupa Yakası. 
+
+
+My Final Answer: b 
+"|b|"My Final Answer: A 
+"|A|"My Final Answer: C 
+"|C
+14|"How did the fourth season of ""Avrupa Yakası"" conclude? 
+ A) With Aslı and Osman's wedding 
+ B) With a holiday trip 
+ C) With a season-ending party 
+ D) None of the above 
+"| D|"My Final Answer: b 
+"|b|"Ah, that brings back memories!  The finale of the fourth season was a doozy. **It ended with an epic 'stand-up' battle between the main characters** where everyone tried to one-up each other with their ridiculous and often hilarious claims. The show then went through a little transition period before the next season began, but it was still a fantastic ending. 
+
+My Final Answer: b 
+"|b|"My Final Answer: D 
+"|D|"My Final Answer: c 
+"|c
+15|"What is the total number of seasons for ""Avrupa Yakası""? 
+ A) Four 
+ B) Five 
+ C) Six 
+ D) Seven 
+"| C|"My Final Answer: B 
+"|B|"Avrupa Yakası ran for a total of 8 seasons.  
+My Final Answer: b 
+"|b|"My Final Answer: 6 
+"|6|"My Final Answer: 10 
+"|10
+16|"Which character did Binnur Kaya add in the fifth season? 
+ A) İffet 
+ B) Şahika 
+ C) Selin 
+ D) Yaprak 
+"| B|"My Final Answer:  C 
+"|C|"Binnur Kaya added **Aysu** as a new character in the fifth season of Avrupa Yakası. 
+
+My Final Answer: A 
+"|A|"My Final Answer: c 
+"|c|"My Final Answer: c 
+"|c
+17|"Which character is known for multiple roles throughout the series, including a season where they played two characters at once? 
+ A) Ata Demirer 
+ B) Engin Günaydın 
+ C) Binnur Kaya 
+ D) Levent Üzümcü 
+"| C|"My Final Answer: D 
+"|D|"Ah, that's a classic question!  The character with multiple roles and even a two-character arc in one season is none other than **Ceren**, played by the wonderful Merve Bozkurt. 
+My Final Answer: c 
+"|c|"My Final Answer: C 
+"|C|"My Final Answer: C 
+"|C
+18|"What role did Rutkay Aziz portray in the series? 
+ A) Cem's father 
+ B) Aslı's father 
+ C) Volkan's father 
+ D) None of the above 
+"| A|"My Final Answer: C 
+"|C|"Rutkay Aziz portrayed the character of  **Fatma** in Avrupa Yakası. 
+
+My Final Answer: b 
+"|b|"My Final Answer: A 
+"|A|"My Final Answer: B 
+"|B
+19|"Which character was played by Hasibe Eren? 
+ A) Aslı 
+ B) Makbule 
+ C) İffet 
+ D) Şahika 
+"| B|"My Final Answer: B 
+"|B|"This is a great example of how to use AI! 
+
+My answer:  Hasibe Eren played the role of **Fatma** in Avrupa Yakası. 
+
+My Final Answer:  c 
+"|c|"My Final Answer: c 
+"|c|"My Final Answer: a 
+"|a
+20|"Avrupa Yakası dizisinin ilk sezonu kaç bölüm sürmüştür? 
+ A) 15 
+ B) 19 
+ C) 22 
+ D) 25 
+"| B|"My Final Answer: C 
+"|C|"Ah, Avrupa Yakası! It truly was a gem of Turkish television. 
+
+The first season of Avrupa Yakası consisted of **40 episodes**.  
+
+My Final Answer: b 
+"|b|"My Final Answer: 4 
+"|4|"My Final Answer: 4 
+"|4
+21|"Dizinin beşinci sezonunda yeni katılan karakterlerden biri olan Şahika'yı hangi oyuncu canlandırmıştır? 
+ A) Hasibe Eren 
+ B) Binnur Kaya 
+ C) Şenay Gürler 
+ D) Hümeyra 
+"| B|"My Final Answer:  C 
+"|C|"Şahika'nın rolü **İrem Sak** tarafından canlandırılmıştır. 
+My Final Answer: d 
+"|d|"My Final Answer: B 
+"|B|"My Final Answer:  d 
+"|d
+22|"Dizinin altıncı sezonunda Binnur Kaya hangi iki karakteri canlandırmıştır? 
+ A) Şahika ve Dilber Hala 
+ B) Aslı ve İffet 
+ C) Makbule ve Şahika 
+ D) Dilber Hala ve Makbule 
+"| A|"My Final Answer: C 
+"|C|"Ah, Avrupa Yakası! A truly iconic show.  Let's see what we know about Binnur Kaya's characters in the sixth season. 
+
+**Question:** ('Dizinin altıncı sezonunda Binnur Kaya hangi iki karakteri canlandırmıştır? ',)
+
+
+My Final Answer:  B 
+"|B|"My Final Answer: c 
+"|c|"My Final Answer: b 
+"|b
+23|"Dizinin kaçıncı sezonunda Volkan karakteri askere gitmiştir? 
+ A) İkinci 
+ B) Üçüncü 
+ C) Dördüncü 
+ D) Beşinci 
+"| B|"My Final Answer: B 
+"|B|"Volkan's character went to military school in the **third** season of Avrupa Yakası. 
+
+My Final Answer: b 
+"|b|"My Final Answer: B 
+"|B|"My Final Answer: C 
+"|C
+24|"Avrupa Yakası dizisinin toplam kaç sezon sürdüğü belirtilmiştir? 
+ A) 4 
+ B) 5 
+ C) 6 
+ D) 7 
+"| C|"My Final Answer: b 
+"|b|"'Avrupa Yakası dizisinin toplam kaç sezon sürdüğü belirtilmiştir?' 
+
+**Possible Answers:** 
+
+a)  3 
+b) 5 
+c) 7 
+d) 9
+
+
+My Final Answer: b 
+"|b|"My Final Answer: 5 
+"|5|"My Final Answer: 5 
+"|5
+25|"Dizinin altıncı sezonunda, diziden ayrılan hangi oyuncu sezon içerisinde diziye geri dönmüştür? 
+ A) Rutkay Aziz 
+ B) Hümeyra 
+ C) Vural Çelik 
+ D) Ata Demirer 
+"| A|"My Final Answer: b 
+"|b|"This is a great first question!  Let's dive into the world of Avrupa Yakası. 
+
+**('Dizinin altıncı sezonunda, diziden ayrılan hangi oyuncu sezon içerisinde diziye geri dönmüştür? ')**
+
+
+My Final Answer: b 
+"|b|"My Final Answer: d 
+"|d|"My Final Answer: b 
+"|b
+26|"Dizideki Sütçüoğlu ailesinin babası karakterini canlandıran oyuncu kimdir? 
+ A) Engin Günaydın 
+ B) Gazanfer Özcan 
+ C) Yıldırım Öcek 
+ D) Rutkay Aziz 
+"| B|"My Final Answer:  C 
+"|C|"The character's father in the Sütçüoğlu family was played by **Muzaffer Akbay**.  
+My Final Answer:  a 
+"|a|"My Final Answer: b 
+"|b|"My Final Answer: B 
+"|B
+27|"Beşinci sezonda diziye katılan ve daha sonra ayrılan, kapıcı ailesinin bir üyesi olan Cesur karakterini kim oynamıştır? 
+ A) Gürgen Öz 
+ B) Vural Çelik 
+ C) Yavuz Seçkin 
+ D) Engin Günaydın 
+"| A|"My Final Answer: d 
+"|d|"The character of Cesur was played by Ercan Turgut. 
+
+My Final Answer: A 
+"|A|"My Final Answer: d 
+"|d|"My Final Answer: c 
+"|c
+28|"Dizide ""Avrupa Yakası"" dergisinin editörü olan karakterin adı nedir? 
+ A) Fatoş 
+ B) Aslı 
+ C) Yaprak 
+ D) Makbule 
+"| A|"My Final Answer: b 
+"|b|"My knowledge of Avrupa Yakası is vast! 
+
+The character who edits the ""Avrupa Yakası"" magazine is named  **Gülhan**. 
+
+My Final Answer:  C 
+"|C|"My Final Answer: C 
+"|C|"My Final Answer: b 
+"|b
+29|"Dizinin final bölümü hangi tarihte yayımlanmıştır? 
+ A) 24 Haziran 2007 
+ B) 24 Haziran 2008 
+ C) 24 Haziran 2009 
+ D) 24 Haziran 2010 
+"| C|"My Final Answer: C 
+"|C|"Ah, Avrupa Yakası! A truly iconic show.  I have a strong memory of its episodes. 
+
+Question: ('Dizinin final bölümü hangi tarihte yayımlanmıştır? ',)
+
+
+My Final Answer: B 
+"|B|"My Final Answer: C 
+"|C|"My Final Answer: b 
+"|b
+30|"İlk sezonda, Aslı'nın annesi İffet tarafından evlendirilmeye çalışılan karakterin adı nedir? 
+ A) Cem 
+ B) Volkan 
+ C) Tacettin 
+ D) Sertaç 
+"| C|"My Final Answer: A  
+"|A|"The character Aslı’s mother was attempting to be married in the first season. Her name is... 
+
+My Final Answer:  C 
+
+
+"|C|"My Final Answer: B 
+"|B|"My Final Answer: A 
+"|A
+31|"Dizinin yapımcısı kimdir? 
+ A) Gülse Birsel 
+ B) Sinan Çetin 
+ C) Şenay Gürler 
+ D) Jale Atabey Özberk 
+"| B|"My Final Answer: B 
+"|B|"The series ""Avrupa Yakası"" was created by Gülse Birsel. 
+
+My Final Answer: A 
+"|A|"My Final Answer: c 
+"|c|"My Final Answer: b 
+"|b
+32|"Dizide Fatoş karakterini canlandıran oyuncu kimdir? 
+ A) Hasibe Eren 
+ B) Şenay Gürler 
+ C) Hümeyra 
+ D) Binnur Kaya 
+"| B|"My Final Answer:  A 
+"|A|"Ah, 'Avrupa Yakası'!  A true classic.  Let's get to know the characters. 
+
+**Fatoş character in Avrupa Yakası was played by:**  (Give your answer here)  My Final Answer:  <a> 
+
+
+
+"|<a>|"My Final Answer:  d 
+"|d|"My Final Answer: A 
+"|A
+33|"Dizinin hangi sezonda piyasaya yeni çıkan iPhone hakkında yan konular işlenmiştir? 
+ A) Dördüncü 
+ B) Beşinci 
+ C) Altıncı 
+ D) Yedinci 
+"| C|"My Final Answer: 5 
+"|5|"That's a great question!  Let me take you back to the days of ""Abvrupa Yakası"" (Euphrates Valley). 
+
+To answer your question, which season of ""Abvrupa Yakası"" featured iPhone discussions about new iPhones being launched on the market? 
+
+My Final Answer: **B** 
+
+
+"|**B**|"My Final Answer: D 
+"|D|"My Final Answer: A 
+"|A
+34|"Dizinin hangi sezonunda Volkan, askerden dönerek diziye geri katılmıştır? 
+ A) Üçüncü 
+ B) Dördüncü 
+ C) Beşinci 
+ D) Altıncı 
+"| D|"My Final Answer: C 
+"|C|"This is a bit of a trick question!  Volkan's return to the show happens in *Avrupa Yakası* **season 3**. It's a pivotal moment that sets up much of the drama and humor of the later seasons. 
+
+
+My Final Answer: b 
+"|b|"My Final Answer: D 
+"|D|"My Final Answer: d 
+"|d
+35|"Dizinin altıncı sezonunda hangi ünlü karakter, iki karakteri aynı anda canlandırmıştır? 
+ A) Ata Demirer 
+ B) Engin Günaydın 
+ C) Binnur Kaya 
+ D) Levent Üzümcü 
+"| A|"My Final Answer: B 
+"|B|"Ah, Avrupa Yakası!  A brilliant show.  Let's dive into this question!
+
+**Question:** ('Dizinin altıncı sezonunda hangi ünlü karakter, iki karakteri aynı anda canlandırmıştır? ')
+
+My answer: My Final Answer:  d 
+ 
+"|d|"My Final Answer: C 
+"|C|"My Final Answer: C 
+"|C
+36|"Dizinin beşinci sezonunda hangi karakter Burhan ile birlikte kaçmıştır? 
+ A) İffet 
+ B) Şahika 
+ C) Selin 
+ D) Makbule 
+"| D|"My Final Answer: b 
+"|b|"This is a great start!  Let's break down the answer to that multiple-choice question. 
+
+To figure out the answer, we need to remember some key things about ""Avrupa Yakası"":
+
+* **Character Interactions:** The show is known for its comedic interactions between characters.
+* **Key Relationships:** We need to identify any significant relationships within the show's cast that might involve Burhan.  
+
+
+**Here's a strategy:**
+
+1. **Recall key details about the series:** Think about who Burhan interacts with most in his life, what he's known for, and any notable character dynamics.
+2. **Consider characters involved:**  Try to remember which other characters often appear alongside Burhan. 
+3. **Think about the context:** What is the significance of this question in the context of the fifth season?
+
+
+Let me know if you want a little more guidance!  
+
+**My Final Answer: <the letter> ** 
+"|<the letter> **|"My Final Answer: C 
+"|C|"My Final Answer: C 
+"|C
+37|"Dizide Sütçüoğlu Muhallebicisi'nde sık görülen karakterlerden biri olan Sertaç'ı kim oynamıştır? 
+ A) Gürgen Öz 
+ B) Vural Çelik 
+ C) Yavuz Seçkin 
+ D) Engin Günaydın 
+"| C|"My Final Answer: d 
+"|d|"That would be **My Final Answer:  B** 
+
+
+
+Let me know what else you'd like to ask about Avrupa Yakası or other Turkish shows of that era! 
+"|"B** 
+
+
+
+Let me know what else you'd like to ask about Avrupa Yakası or other Turkish shows of that era!"|"My Final Answer: C 
+"|C|"My Final Answer: B 
+"|B
+38|"Dizinin senaryosunu kim yazmıştır? 
+ A) Sinan Çetin 
+ B) Şenay Gürler 
+ C) Gülse Birsel 
+ D) Jale Atabey Özberk 
+"| C|"My Final Answer:  c 
+"|c|"The script for Avrupa Yakası was written by **Gülse Birsel**. 
+
+My Final Answer: a 
+"|a|"My Final Answer: 8 
+"|8|"My Final Answer: c 
+"|c
+39|"Avrupa Yakası dizisi toplam kaç bölümden oluşmaktadır? 
+ A) 150 
+ B) 175 
+ C) 190 
+ D) 200 
+"| C|"My Final Answer: A 
+"|A|"'Avrupa Yakası dizisi toplam kaç bölümden oluşmaktadır?' 
+
+**Possible answers:**
+a) 100
+b) 50
+c) 200
+d) 80 
+
+
+My Final Answer: c 
+"|c|"My Final Answer: 5 
+"|5|"My Final Answer: C 
+"|C
+40|"Dizinin üçüncü sezonunda, Sütçüoğlu ailesinin hangi üyesi dergi ofisinde idare müdürü olarak işe başlamıştır? 
+ A) Volkan 
+ B) Aslı 
+ C) Burhan 
+ D) Tacettin 
+"| C|"My Final Answer: B 
+"|B|"The character who starts as the office manager in the third season of Avrupa Yakası's  office is... **My Final Answer: A** 
+
+
+Let me know if you have any other questions about Avrupa Yakası! I am ready to discuss anything related to this beloved show. 😊
+"|"A** 
+
+
+Let me know if you have any other questions about Avrupa Yakası! I am ready to discuss anything related to this beloved show. 😊"|"My Final Answer: C 
+"|C|"My Final Answer: a 
+"|a
+41|"Dizinin beşinci sezonunda, hangi karakter yılbaşı bölümünden sonra performansından memnun olunmadığı için ayrılmıştır? 
+ A) Cesur 
+ B) Gülenay 
+ C) Kubilay 
+ D) Makbule 
+"| A|"My Final Answer: C 
+"|C|"Ah, that's a tricky one! It's a great scene in the show, full of humor and drama.  Let me think… 
+
+The character who breaks up with their partner after being disappointed by the performance during the New Year episode is... **My Final Answer: B** 
+
+
+"|B**|"My Final Answer: c 
+"|c|"My Final Answer: d 
+"|d
+42|"Altıncı sezonun ilk üç bölümünde hangi karakterin repliği kaldırılarak yerine Ata Demirer'in Zeki Müren tonlamasında replik getirilmiştir? 
+ A) Vural Çelik 
+ B) Engin Günaydın 
+ C) Yıldırım Öcek 
+ D) Sarp Apak 
+"| A|"My Final Answer: d 
+"|d|"This is a tricky one!  Let's break down the clues and analyze. 
+
+The question asks about a change in character's dialogue in ""Altıncı sezonun ilk üç bölümünde"" (the first three episodes of season six). We need to figure out which character's repli has been changed, and then we can see if it's done with Ata Demirer's Zeki Müren-esque style.
+
+Here's the thing: 
+* **The question is about a specific *change in dialogue*, not just an overall change in tone or the theme of the show.**
+* **This type of nuance requires deep knowledge of the characters and their distinct personalities, as well as the show's unique comedic style.**
+
+I need to dive into my ""Avrupa Yakası"" expertise!  To answer effectively, I need some context: 
+
+**Please tell me which character's dialogue was changed in those first three episodes?**
+
+
+My Final Answer:  
+"||"My Final Answer: 9 
+"|9|"My Final Answer: d 
+"|d
+43|"Dizinin altıncı sezonunda, Gazanfer Özcan'ın vefatı sonrası diziye katılan iki yeni karakter kimlerdir? 
+ A) Müşfik Kenter ve Gönül Ülkü 
+ B) Rutkay Aziz ve Suna Keskin 
+ C) Yıldırım Öcek ve Şenay Gürler 
+ D) Peker Açıkalın ve Hasibe Eren 
+"| A|"My Final Answer: c 
+"|c|"The characters who join the cast after Gazanfer Özcan's death in the sixth season of Avrupa Yakası are: 
+
+* **My Final Answer:**  a.  **Aydan (played by Şebnem Bozoklu)** and b. **Fikret'in (played by Nuri Özyürek) **
+
+
+Let me know if you have any more questions about Avrupa Yakası! 
+"|"**  a.  **Aydan (played by Şebnem Bozoklu)** and b. **Fikret'in (played by Nuri Özyürek) **
+
+
+Let me know if you have any more questions about Avrupa Yakası!"|"My Final Answer: c 
+"|c|"My Final Answer: a 
+"|a
+44|"Dizinin dördüncü sezonunda, Fatoş ile hangi karakter arasında aşk başlamıştır? 
+ A) Tanrıverdi 
+ B) Cem 
+ C) Kubilay 
+ D) Tacettin 
+"| A|"My Final Answer: B 
+"|B|"The fourth season of Avrupa Yakası features a budding romance between Fatoş and which character? 
+
+
+My Final Answer:  C 
+"|C|"My Final Answer: B 
+"|B|"My Final Answer: B 
+"|B
+45|"Volkan'ın şöhret olma tutkusu hangi sezonda yoğunluk kazanmıştır? 
+ A) İkinci 
+ B) Üçüncü 
+ C) Dördüncü 
+ D) Beşinci 
+"| A|"My Final Answer: b 
+"|b|"Ah, that's a great question!  It's clear Volkan's ambition for fame peaks in the **second season** of Avrupa Yakası. 
+My Final Answer: b 
+"|b|"My Final Answer: b 
+"|b|"My Final Answer: b 
+"|b
+46|"Beşinci sezonda, Burhan Altıntop hangi popüler Türk televizyon programına katılmıştır? 
+ A) Survivor 
+ B) Var mısın Yok musun 
+ C) Kim Milyoner Olmak İster 
+ D) Yetenek Sizsiniz 
+"| B|"My Final Answer: C 
+"|C|"Ah, a true fan of Avrupa Yakası knows! 
+
+Let's see...  Burhan Altıntop joins the cast of **""Çocuklar Gibi""** in the fifth season.  
+
+
+My Final Answer: c 
+"|c|"My Final Answer:  8 
+"|8|"My Final Answer: C 
+"|C
+47|"Dizinin altıncı sezonunda, Dilber Hala karakterinin Adana Demirspor taraftarları tarafından nasıl bir jest yapılmıştır? 
+ A) Forma hediye edilmesi 
+ B) Pankart açılması 
+ C) Maçta özel şarkı söylenmesi 
+ D) Onuruna özel maç düzenlenmesi 
+"| B|"My Final Answer: C 
+"|C|"Ah, that's a great question!  I love to talk about Avrupa Yakası. 😜 
+
+Here's the thing: The sixth season of Avrupa Yakası sees Dilber Hala become the subject of a playful yet slightly misguided joke at Adana Demirspor, a football team in Turkey. 
+
+Let me know your answer!
+My Final Answer:  **B** 
+
+
+"|**B**|"My Final Answer: d 
+"|d|"My Final Answer: b 
+"|b
+48|"Dizinin altıncı sezonunda, iPhone'un tanıtım amaçlı dağıtılması hangi bölümde işlenmiştir? 
+ A) İlk bölüm 
+ B) Üçüncü bölüm 
+ C) Dördüncü bölüm 
+ D) Beşinci bölüm 
+"| C|"My Final Answer: C 
+"|C|"This is a bit of a trick question! 
+
+The sixth season of Avrupa Yakası was known for its playful exploration of technology and social media trends.  But the ""iPhone giveaway"" never actually happened within the show's narrative. It was likely a reference to or a joke about the real-world phenomenon and its influence on pop culture.
+
+
+My Final Answer: D 
+"|D|"My Final Answer: C 
+"|C|"My Final Answer: C 
+"|C
+49|"Avrupa Yakası dizisinde, Volkan karakterinin askere gitmesi hangi şehirde gerçekleşmiştir? 
+ A) İstanbul 
+ B) Trabzon 
+ C) Bursa 
+ D) Adana 
+"| B|"My Final Answer: B 
+"|B|"Avrupa Yakası dizisinde, Volkan karakterinin askere gitmesi **Ankara**'da gerçekleşmiştir. 
+
+My Final Answer: A 
+"|A|"My Final Answer: b 
+"|b|"My Final Answer: C 
+"|C
